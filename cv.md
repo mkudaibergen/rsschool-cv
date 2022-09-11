@@ -11,6 +11,7 @@ Contact information:
 * E-mail: marzhan.kudaibergen@gmail.com
 * Phone number: +77052099244
 * [LinkedIn Profile](https://www.linkedin.com/in/marzhan-kudaibergen-9a35a785/)
+* [CodePen](https://codepen.io/your-work)
 
 --- 
 
@@ -65,6 +66,21 @@ E-Health Center | Leading Specialist | Working with all informational systems in
 JSC "Techworks" | Fullstack Developer | Performing tasks on frontend and backend part, working with database, creating new blocks to an existing project by figma. | Feb 2022 - June 2022
 JSC "National Institute of Eye Disesases" | Internal Diseases Specialist | Diagnostics, treatment, emergency care | Oct 2020 - Feb 2022
 City Hospital #1 | Internal Diseases Specialist | Diagnostics, treatment of pregnants (including patients infected with COVID) | Apr 2019 - Sept 2020 
+
+### Education: 
+
+* University: Astana Medical University (2011-2018)
+* Courses: 
+  - "New Level" educational center - Frontend Development Practical course (completed on Feb 2022)
+  - FreeCodeCamp
+
+
+### English language: 
+
+* Approximately B2-C1 
+* [Certificate of EF SET Test](https://www.efset.org/cert/Thd2Lz)
+* Practice experience - while studying in Bulgaria and Slovenia by Erasmus Exchange program at university (at 2014 and 2017), lived for 6 months in New York (at 2018)
+
 
 
 
