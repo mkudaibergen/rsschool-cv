@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mkudaibergen.github.io/rsschool-cv/
